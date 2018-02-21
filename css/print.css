@@ -1,0 +1,35 @@
+	h1 {
+		font-family: Brush Script Std;
+	}
+	.sig {
+		text-align: left;
+		font-family: rage;
+	}
+	.over {
+		text-decoration: overline;
+		text-align: center;
+	}
+	td {
+		text-align: center;
+		/*padding: */
+	}
+	.td1 {
+		font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+		font-size: 19px;
+		text-align: center;
+	}
+	.td2 {
+		font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+		font-size: 19px;
+		text-align: center;
+		font-weight:  bold;
+	}
+	.tab {
+		height: 35px;
+	}
+	table {
+		width: 100%;
+	}
+	h2 {
+		font-family: Brush Script Std;
+	}
